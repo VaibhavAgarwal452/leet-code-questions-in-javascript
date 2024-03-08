@@ -29,5 +29,3 @@ var addTwoNumbers = function (l1, l2) {
 
   return head.next;
 };
-
-console.log("testing")
