@@ -14,4 +14,3 @@ function twoSum(nums, target) {
   return [];
 }
 console.log(twoSum(nums, target));
-console.log()
