@@ -11,7 +11,6 @@ var searchMatrix = function (matrix, target) {
             break;
         }
     }
-    currentArray
     if (currentArray.length > 0) {
         return search(currentArray, target)
     }
